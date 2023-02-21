@@ -23,6 +23,6 @@ The replicability experiments of our paper is demonstrated in this [notebook](ht
 
 ## Insights Experiments
 
-For the insights experiments, we also provide a [demo](https://github.com/Xiao0728/ColStar/blob/main/Insights%20(RQ3%20Res)/ColStar_SMP_Demo%20(RQ3%20Res).ipynb).
+For the insights experiments, we also provide a demo [notebook](https://github.com/Xiao0728/ColStar/blob/main/Insights%20(RQ3%20Res)/ColStar_SMP_Demo%20(RQ3%20Res).ipynb).
 Or, instead of running the experiments from scratch, you can use our provided results files in this [folder](https://github.com/Xiao0728/ColStar/tree/main/Insights%20(RQ3%20Res)) directly to reproduce our presented results.
 
