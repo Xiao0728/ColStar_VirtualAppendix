@@ -3,7 +3,7 @@
 
 
 # Training 
-For Training and Indexing a Col$\star$ model, please follow this [instruction for training](https://github.com/Xiao0728/ColStar/blob/main/ColStar_models/Training_CMD.md) and [instruction for indexing](https://github.com/Xiao0728/ColStar/blob/main/ColStar_models/index.md).
+For Training and Indexing a Col* model, please follow this [instruction for training](https://github.com/Xiao0728/ColStar/blob/main/ColStar_models/Training_CMD.md) and [instruction for indexing](https://github.com/Xiao0728/ColStar/blob/main/ColStar_models/index.md).
 
 
 
