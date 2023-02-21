@@ -13,12 +13,12 @@ For Training and Indexing a Col$\star$ model, please follow this [instruction fo
 ## Reproducibility Experiments
 
 The reproducibility experiments is demonstrated in this [notebook](https://github.com/Xiao0728/ColStar/blob/main/Reproducibility%20(RQ1%20Res)/Reproducibility_Demo%20(RQ1%20results).ipynb).
-In addition, all the results files are provided under this [folder](https://github.com/Xiao0728/ColStar/tree/main/Reproducibility%20(RQ1%20Res))
+In addition, all the results files are provided under this [folder](https://github.com/Xiao0728/ColStar/tree/main/Reproducibility%20(RQ1%20Res)).
 
 
 ## Replicability Experiments
 
-The replicability experiments of our paper is demonstrated in this [notebook](https://github.com/Xiao0728/ColStar/blob/main/Replicability%20(RQ2%20Res)/Replicability_Demo%20(RQ2%20results).ipynb). Also, all the results files that can be used to reproduce our results are provided in this [folder](https://github.com/Xiao0728/ColStar/tree/main/Replicability%20(RQ2%20Res))
+The replicability experiments of our paper is demonstrated in this [notebook](https://github.com/Xiao0728/ColStar/blob/main/Replicability%20(RQ2%20Res)/Replicability_Demo%20(RQ2%20results).ipynb). Also, all the results files that can be used to reproduce our results are provided in this [folder](https://github.com/Xiao0728/ColStar/tree/main/Replicability%20(RQ2%20Res)).
 
 
 ## Insights Experiments
