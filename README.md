@@ -2,7 +2,7 @@
 
 # Training 
 For Training and Indexing a Col* model, please follow this [instruction for training](https://github.com/Xiao0728/ColStar/blob/main/ColStar_models/Training_CMD.md).
-The trained checkpoints for the selected Col* models to build the dense index are shared here: https://drive.google.com/drive/folders/1S9d1M_5LGcGyC6W15ZOCL6KGGRNc6wXa?usp=sharing
+The trained checkpoints for the selected Col* models, namely ColBERT-Cosine, ColBERT-L2, ColRoBERTa and ColALBERT, to build the dense index are shared here: https://drive.google.com/drive/folders/1S9d1M_5LGcGyC6W15ZOCL6KGGRNc6wXa?usp=sharing
 
 # Indexing
 
