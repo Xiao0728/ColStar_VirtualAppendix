@@ -16,7 +16,7 @@ Using your own trained model or our shared checkpoint, you can build the dense i
 ## Reproducibility Experiments
 
 The reproducibility experiments are demonstrated in this [demo notebook](Reproducibility%20(RQ1%20Res)/Reproducibility_Demo%20(RQ1%20results).ipynb).
-In addition, all the results files are provided under this [results folder](Reproducibility%20(RQ1%20Res)/).
+In addition, all the results files are provided under this [results folder](/Reproducibility%20(RQ1%20Res)/).
 
 
 ## Replicability Experiments
