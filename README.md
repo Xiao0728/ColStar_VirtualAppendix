@@ -31,5 +31,6 @@ The replicability experiments of our paper are demonstrated in this [demo notebo
 For the insights experiments, we also provide a demo [demo notebook](Insights%20(RQ3%20Res)/ColStar_SMP_Demo%20(RQ3%20Res).ipynb).
 Or, instead of running the experiments from scratch, you can use our provided results files in this [Insights results folder](Insights%20(RQ3%20Res)/) directly to reproduce our presented results.
 
-# Reference:
+
+# Reference
 [Wang23]: Xiao Wang, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. Replicability, and Insights into Dense Multi-Representation Retrieval Models: from ColBERT to Col*. In Proceedings of SIGIR 2023.
