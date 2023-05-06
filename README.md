@@ -1,4 +1,6 @@
 # ColStar 
+Virtual Appendix for [Wang et al. 2023] Xiao Wang, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. Reproducibility, Replicability, and Insights into Dense Multi-Representation Retrieval Models: from ColBERT to Col$\star$. In Proceedings of SIGIR 2023.
+
 
 # Training 
 For Training and Indexing a Col* model, please follow this [instruction for training](ColStar_models/Training_CMD.md).
