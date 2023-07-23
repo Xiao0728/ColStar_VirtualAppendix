@@ -33,11 +33,11 @@ Based on the results of our replicability study, we conclude that we can replica
 ## Insights Experiments
 
 Furthermore, we investigate the matching behaviour of our selected Col* models to obtain more insights. In particular, we investigate the following research questions:
-- How does the late interaction matching behaviour varies across different Col* models?
-- How does the Col* models impact on the matching bebavaiour across different types of tokens?
-- Can we quantify the contribution of different types of matching behaviour?
+- **RQ3.1:** How does the late interaction matching behaviour varies across different Col* models?
+- **RQ3.2:** How does the Col* models impact on the matching bebavaiour across different types of tokens?
+- **RQ3.3:** Can we quantify the contribution of different types of matching behaviour?
 
-In particular, according to the following experiment results, we find that (i) ColRoBERTa is more likely to perform semantic matching than other models **(RQ1)**; (ii) Low IDF tokens are most likely to exhibit semantic matching  **(RQ2)**; (iii) Col* modelsbenefit more from lexical matching than semantic matching, less so for ColRoBERTa! Please check more results in our paper!
+In particular, according to the following experiment results, we find that (i) ColRoBERTa is more likely to perform semantic matching than other models **(RQ3.1)**; (ii) Low IDF tokens are most likely to exhibit semantic matching  **(RQ2)**; (iii) Col* modelsbenefit more from lexical matching than semantic matching, less so for ColRoBERTa **(RQ3.3):**! Please check more results in our paper!
 
 <p align="center">
   <img width="600" alt="image" src="https://github.com/Xiao0728/ColStar_VirtualAppendix/assets/43675140/0cecc961-58eb-4ca5-939f-ce09c3482d86">
