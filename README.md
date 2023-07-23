@@ -16,18 +16,19 @@ Using your own trained model or our shared checkpoint, you can build the dense i
 # Evaluation 
 
 ## Reproducibility Experiments
-
-The reproducibility experiments are demonstrated in this [demo notebook](Reproducibility%20(RQ1%20Res)/Reproducibility_Demo%20(RQ1%20results).ipynb).
-In addition, all the results files are provided under this [Reproducibility results folder](Reproducibility%20(RQ1%20Res)/).
-
+We first conduct the reproducibility study of ColBERT, by training our own ColBERT model. The reproducibility experiments are demonstrated in this [demo notebook](Reproducibility%20(RQ1%20Res)/Reproducibility_Demo%20(RQ1%20results).ipynb). In addition, all the results files are provided under this [Reproducibility results folder](Reproducibility%20(RQ1%20Res)/).
+Based on the results of our reproducibility study, we conclude that we can well-reproduce the training of ColBERT.
 
 ## Replicability Experiments
-
+Then, based on the success of our reproducibility study, we further conduct the replicability study where we extend the ColBERT to Col*. In particular, Col* is a collection of models where we implement the Contextualised Late Interaction Mechanism upon various underlying Pretrained Language Models with different tokenisers. 
 The replicability experiments of our paper are demonstrated in this [demo notebook](Replicability%20(RQ2%20Res)/Replicability_Demo%20(RQ2%20results).ipynb). Also, all the results files that can be used to reproduce our results are provided in this [Replicability results folder](Replicability%20(RQ2%20Res)/).
+Based on the results of our replicability study, we conclude that we can replicate the contextualised late interaction mechanism upon various pretrained models. Moreover, in the following, we report the statistics of four selected Col* models that are built upon the base-size PLM but with different tokenisers.
+![image](https://github.com/Xiao0728/ColStar_VirtualAppendix/assets/43675140/77f20029-a02a-4da2-8024-f1ed8e7640cb)
+
 
 
 ## Insights Experiments
-
+Furthermore, we investigate the matching behaviour of our selected Col* models to obtain more insights. 
 For the insights experiments, we also provide a demo [demo notebook](Insights%20(RQ3%20Res)/ColStar_SMP_Demo%20(RQ3%20Res).ipynb).
 Or, instead of running the experiments from scratch, you can use our provided results files in this [Insights results folder](Insights%20(RQ3%20Res)/) directly to reproduce our presented results.
 
