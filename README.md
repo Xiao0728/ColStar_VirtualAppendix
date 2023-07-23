@@ -40,7 +40,7 @@ Furthermore, we investigate the matching behaviour of our selected Col* models t
 In particular, according to the following experiment results, we find that (i) ColRoBERTa is more likely to perform semantic matching than other models **(RQ1)**; (ii) Low IDF tokens are most likely to exhibit semantic matching  **(RQ2)**; (iii) Col* modelsbenefit more from lexical matching than semantic matching, less so for ColRoBERTa! Please check more results in our paper!
 
 <p align="center">
-  <img width="500" alt="image" src="https://github.com/Xiao0728/ColStar_VirtualAppendix/assets/43675140/0cecc961-58eb-4ca5-939f-ce09c3482d86">
+  <img width="600" alt="image" src="https://github.com/Xiao0728/ColStar_VirtualAppendix/assets/43675140/0cecc961-58eb-4ca5-939f-ce09c3482d86">
 </p>
 
 To reproduce the above results, we also provide a demo [demo notebook](Insights%20(RQ3%20Res)/ColStar_SMP_Demo%20(RQ3%20Res).ipynb) for the insights experiments.
