@@ -22,6 +22,7 @@ Based on the results of our reproducibility study, we conclude that we can well-
 ## Replicability Experiments
 Then, based on the success of our reproducibility study, we further conduct the replicability study where we extend the ColBERT to Col*. In particular, Col* is a collection of models where we implement the Contextualised Late Interaction Mechanism upon various underlying Pretrained Language Models with different tokenisers. 
 The replicability experiments of our paper are demonstrated in this [demo notebook](Replicability%20(RQ2%20Res)/Replicability_Demo%20(RQ2%20results).ipynb). Also, all the results files that can be used to reproduce our results are provided in this [Replicability results folder](Replicability%20(RQ2%20Res)/).
+
 Based on the results of our replicability study, we conclude that we can replicate the contextualised late interaction mechanism upon various pretrained models. Moreover, in the following, we report the statistics of four selected Col* models that are built upon the base-size PLM but with different tokenisers, namely ColBERT, ColminiLM, ColRoBERTa and ColALBERT models.
 <img width="976" alt="image" src="https://github.com/Xiao0728/ColStar_VirtualAppendix/assets/43675140/a4d53794-e51a-4cb7-b5fd-f13fde9b9050" width="20%" height="10%" >
 
@@ -29,8 +30,16 @@ Based on the results of our replicability study, we conclude that we can replica
 
 
 ## Insights Experiments
-Furthermore, we investigate the matching behaviour of our selected Col* models to obtain more insights. 
-For the insights experiments, we also provide a demo [demo notebook](Insights%20(RQ3%20Res)/ColStar_SMP_Demo%20(RQ3%20Res).ipynb).
+
+Furthermore, we investigate the matching behaviour of our selected Col* models to obtain more insights. In particular, we investigate the following research questions:
+- How does the late interaction matching behaviour varies across different Col* models?
+- How does the Col* models impact on the matching bebavaiour across different types of tokens?
+- Can we quantify the contribution of different types of matching behaviour?
+In particular, according to the following experiment results, we find that (i) ColRoBERTa is more likely to perform semantic matching than other models; (ii) Low IDF tokens are most likely to exhibit semantic matching.
+<img width="796" alt="image" src="https://github.com/Xiao0728/ColStar_VirtualAppendix/assets/43675140/0cecc961-58eb-4ca5-939f-ce09c3482d86">
+
+
+To reproduce the above results, we also provide a demo [demo notebook](Insights%20(RQ3%20Res)/ColStar_SMP_Demo%20(RQ3%20Res).ipynb) for the insights experiments.
 Or, instead of running the experiments from scratch, you can use our provided results files in this [Insights results folder](Insights%20(RQ3%20Res)/) directly to reproduce our presented results.
 
 
